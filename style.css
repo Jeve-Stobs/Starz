@@ -16,4 +16,5 @@ canvas {
 	height: calc(100vw * (9/16));
 	background-color: black;
 	box-sizing: border-box;
+  border: 1px solid white;	
 }
